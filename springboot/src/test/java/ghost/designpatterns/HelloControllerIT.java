@@ -2,7 +2,6 @@ package ghost.designpatterns;
 
 import static org.hamcrest.Matchers.equalTo;
 import static org.junit.Assert.assertThat;
-import ghost.designpatterns.controller.SpringBootFirstApplication;
 
 import java.net.URL;
 
