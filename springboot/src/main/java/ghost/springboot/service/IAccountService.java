@@ -1,6 +1,6 @@
-package ghost.designpatterns.service;
+package ghost.springboot.service;
 
-import ghost.designpatterns.bean.Account;
+import ghost.springboot.bean.Account;
 
 import java.util.List;
 

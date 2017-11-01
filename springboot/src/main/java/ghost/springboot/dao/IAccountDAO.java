@@ -1,6 +1,6 @@
-package ghost.designpatterns.dao;
+package ghost.springboot.dao;
 
-import ghost.designpatterns.bean.Account;
+import ghost.springboot.bean.Account;
 
 import java.util.List;
 

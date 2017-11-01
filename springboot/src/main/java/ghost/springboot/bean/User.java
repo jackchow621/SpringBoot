@@ -1,4 +1,4 @@
-package ghost.designpatterns.bean;
+package ghost.springboot.bean;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.context.annotation.Configuration;

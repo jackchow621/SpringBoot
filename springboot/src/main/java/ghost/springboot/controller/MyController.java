@@ -1,7 +1,7 @@
-package ghost.designpatterns.controller;
+package ghost.springboot.controller;
 
-import ghost.designpatterns.bean.MyBean;
-import ghost.designpatterns.bean.User;
+import ghost.springboot.bean.MyBean;
+import ghost.springboot.bean.User;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;

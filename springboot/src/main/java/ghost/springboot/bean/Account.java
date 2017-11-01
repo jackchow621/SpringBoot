@@ -1,4 +1,4 @@
-package ghost.designpatterns.bean;
+package ghost.springboot.bean;
 
 public class Account {
 	private int id;

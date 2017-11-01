@@ -1,8 +1,8 @@
-package ghost.designpatterns.service.impl;
+package ghost.springboot.service.impl;
 
-import ghost.designpatterns.bean.Account;
-import ghost.designpatterns.dao.IAccountDAO;
-import ghost.designpatterns.service.IAccountService;
+import ghost.springboot.bean.Account;
+import ghost.springboot.dao.IAccountDAO;
+import ghost.springboot.service.IAccountService;
 
 import java.util.List;
 
