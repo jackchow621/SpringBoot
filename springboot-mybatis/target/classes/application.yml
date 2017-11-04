@@ -9,6 +9,9 @@ spring:
         url: jdbc:mysql://127.0.0.1:3306/springboot 
         username: root
         password: 123456
+    data:
+      mongodb:
+        uri: mongodb://192.168.1.99:20000/springboot-db
 mybatis:
     type-aliases-package: ghost.springboot.entity
     mapper-locations: classpath:mapper/*Mapper.xml
