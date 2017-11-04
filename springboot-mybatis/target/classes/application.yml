@@ -12,6 +12,17 @@ spring:
     data:
       mongodb:
         uri: mongodb://192.168.1.99:20000/springboot-db
+    redis:
+      host: 192.168.1.130
+      port: 6379
+      database: 1 
+      pool:
+        max-active: 8
+        max-wait: -1
+        max-idle: 500
+        min-idle: 0
+      timeout: 0
+     
 mybatis:
     type-aliases-package: ghost.springboot.entity
     mapper-locations: classpath:mapper/*Mapper.xml
