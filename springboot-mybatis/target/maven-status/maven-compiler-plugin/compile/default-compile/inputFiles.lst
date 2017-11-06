@@ -1,3 +1,4 @@
+G:\JAVA\workspace_eclipse\springboot-mybatis\src\main\java\ghost\springboot\runner\AppRunner.java
 G:\JAVA\workspace_eclipse\springboot-mybatis\src\main\java\ghost\springboot\dao\impl\SimpleBookRepository.java
 G:\JAVA\workspace_eclipse\springboot-mybatis\src\main\java\ghost\springboot\service\DeptmentService.java
 G:\JAVA\workspace_eclipse\springboot-mybatis\src\main\java\ghost\springboot\message\Receiver.java
@@ -6,9 +7,12 @@ G:\JAVA\workspace_eclipse\springboot-mybatis\src\main\java\ghost\springboot\mapp
 G:\JAVA\workspace_eclipse\springboot-mybatis\src\main\java\ghost\springboot\service\DeptmentService2.java
 G:\JAVA\workspace_eclipse\springboot-mybatis\src\main\java\ghost\springboot\entity\Customer.java
 G:\JAVA\workspace_eclipse\springboot-mybatis\src\main\java\ghost\springboot\dao\CustomerRepository.java
+G:\JAVA\workspace_eclipse\springboot-mybatis\src\main\java\ghost\springboot\runner\ApplicationRunner.java
 G:\JAVA\workspace_eclipse\springboot-mybatis\src\main\java\ghost\springboot\entity\Goods.java
-G:\JAVA\workspace_eclipse\springboot-mybatis\src\main\java\ghost\springboot\controller\HomeController.java
+G:\JAVA\workspace_eclipse\springboot-mybatis\src\main\java\ghost\springboot\RebbitMQRunner.java
 G:\JAVA\workspace_eclipse\springboot-mybatis\src\main\java\ghost\springboot\controller\DeptmentController.java
+G:\JAVA\workspace_eclipse\springboot-mybatis\src\main\java\ghost\springboot\controller\HomeController.java
+G:\JAVA\workspace_eclipse\springboot-mybatis\src\main\java\ghost\springboot\message\RabbitMQReceiver.java
 G:\JAVA\workspace_eclipse\springboot-mybatis\src\main\java\ghost\springboot\entity\Book.java
 G:\JAVA\workspace_eclipse\springboot-mybatis\src\main\java\ghost\springboot\dao\BookRepository.java
 G:\JAVA\workspace_eclipse\springboot-mybatis\src\main\java\ghost\springboot\mapper\DeptmentMapper.java
