@@ -8,3 +8,10 @@ spring:
     hibernate:
       ddl-auto: create  # 第一次简表create  后面用update
     show-sql: true
+  mail:
+    host: smtp.sina.com
+    username: jack_chow621@sina.com
+    password: zousongjian123
+    port: 25
+    protocol: smtp
+    default-encoding: UTF-8
