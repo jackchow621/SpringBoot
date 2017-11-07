@@ -10,8 +10,8 @@ spring:
     show-sql: true
   mail:
     host: smtp.sina.com
-    username: jack_chow621@sina.com
-    password: zousongjian123
+    username: #邮箱帐号
+    password: #邮箱密码
     port: 25
     protocol: smtp
     default-encoding: UTF-8
